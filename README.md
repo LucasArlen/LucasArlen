@@ -1,6 +1,6 @@
-- 👋 Lucas Arlen
+- 👾 Lucas Arlen
 - 📍 União - Piauí
-- 🌱 Atualmente aprendendo C pelo curso EAD e Python nas horas vagas.
+- 💡 Atualmente aprendendo C pelo curso EAD e Python nas horas vagas.
 - 💻 Sou apenas um estudante iniciante, a procura de evolução.
 
 <!---
