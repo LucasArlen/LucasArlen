@@ -1,7 +1,6 @@
 - 👾 Lucas Arlen
 - 📍 União - Piauí
-- 💡 Desenvolvedor Pyhton e Django.
-- 💻 Conheço o básico de HTML, CSS e JS, mas meu foco é no Backend com Django.
+- 💡 Desenvolvedor Python e Django.
 
 <!---
 LucasArlen/LucasArlen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
