@@ -1,6 +1,4 @@
-- 👾 Lucas Arlen
-- 📍 União - Piauí
-- 💡 Desenvolvedor Python e Django.
+💡 Desenvolvedor Python e Django.
 
 <!---
 LucasArlen/LucasArlen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
