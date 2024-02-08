@@ -1,5 +1,8 @@
 ### Lucas Arlen ✋🏾
 
+![Static Badge](https://img.shields.io/badge/Estutante-Engenharia_de_Software-red?style=flat-square&logoColor=Cyan)
+
+
 #### Começando meu portifólio via Github
 ![LucasArlen stats](https://github-readme-stats.vercel.app/api?username=LucasArlen&show_icons=true&theme=radical)
 
