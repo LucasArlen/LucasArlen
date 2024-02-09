@@ -1,8 +1,5 @@
 ## Lucas Arlen
-Estudante de Engenharia de Sofware pela Unicesumar. <br>
-![Static Badge](https://img.shields.io/github/followers/{LucasArlen}.svg?style=social&label=Follow&maxAge=2592000)
-![Static Badge](https://img.shields.io/badge/Engenharia_de_Software-blue?style=flat-square)
-
+##### Estudante de Engenharia de Sofware pela Unicesumar. <br>
 
 ## Habilidades
 ![HTML5-E34F26_style=for-the-badge logo=html5 logoColor=white](https://github.com/LucasArlen/LucasArlen/assets/53398879/2cd42f9d-0214-4c51-a0cd-b26e607d1b50)
