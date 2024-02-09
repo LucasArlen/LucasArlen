@@ -26,7 +26,5 @@ Meu portfólio é a minha maneira de mostrar como estou transformando minhas ide
 ![Static Badge](https://img.shields.io/badge/RAM-48GB-0078D6?style=for-the-badge)
 
 <br>
-<br>
 
-##
 ![](https://38.media.tumblr.com/9cff938216133142406c9f61970acd2f/tumblr_njjcz1NLp51rnbw6mo1_540.gif)
