@@ -1,5 +1,6 @@
 ## Lucas Arlen
 Estudante de Engenharia de Sofware pela Unicesumar. <br>
+![Static Badge](https://img.shields.io/github/followers/{LucasArlen}.svg?style=social&label=Follow&maxAge=2592000)
 ![Static Badge](https://img.shields.io/badge/Engenharia_de_Software-blue?style=flat-square)
 
 
@@ -17,6 +18,7 @@ Estudante de Engenharia de Sofware pela Unicesumar. <br>
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## PC Specs
 ![Static Badge](https://img.shields.io/badge/AMD-Radeon_RX_6750_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
