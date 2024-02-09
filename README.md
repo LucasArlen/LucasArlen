@@ -1,5 +1,5 @@
 ## Lucas Arlen
-Estudante de Engenharia de Sofware pela Unicesumar.
+Estudante de Engenharia de Sofware pela Unicesumar. <br>
 ![Static Badge](https://img.shields.io/badge/Engenharia_de_Software-blue?style=flat-square)
 
 
