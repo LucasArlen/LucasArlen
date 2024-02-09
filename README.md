@@ -1,4 +1,5 @@
 ## Lucas Arlen
+Estudante de Engenharia de Sofware pela Unicesumar.
 ![Static Badge](https://img.shields.io/badge/Engenharia_de_Software-blue?style=flat-square)
 
 
@@ -11,7 +12,6 @@
 
 ## Status
 ![LucasArlen stats](https://github-readme-stats.vercel.app/api?username=LucasArlen&show_icons=true&theme=radical) <br>
-Meu portfólio é a minha maneira de mostrar como estou transformando minhas ideias em realidade.
 
 ## Ferramentas
 ![Static Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
