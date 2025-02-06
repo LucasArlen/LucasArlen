@@ -7,6 +7,7 @@
 ![Python-14354C_style=for-the-badge logo=python logoColor=white](https://github.com/LucasArlen/LucasArlen/assets/53398879/cbf8ab2a-8e47-435d-9815-0717936328d0)
 ![Django-092E20_style=for-the-badge logo=django logoColor=white](https://github.com/LucasArlen/LucasArlen/assets/53398879/0e3f81b5-1da3-435f-b5fd-a59e2b44b7cf)
 ![MySQL-00000F_style=for-the-badge logo=mysql logoColor=white](https://github.com/LucasArlen/LucasArlen/assets/53398879/89e24b3d-6256-4163-ae39-2050340cc10b)
+![Docker-00000F_style=for-the-badge logo=docker logoColor=blue](https://github.com/LucasArlen/LucasArlen/assets/53398879/89e24b3d-6256-4163-ae39-2050340cc10b)
 
 ## Status
 ![LucasArlen stats](https://github-readme-stats.vercel.app/api?username=LucasArlen&show_icons=true&theme=radical) <br>
