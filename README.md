@@ -17,13 +17,20 @@
 
 ## 🛠️ Ferramentas
 
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
 ## 💻 PC Specs
 
-![AMD Radeon RX 6750 XT](https://img.shields.io/badge/AMD-Radeon_RX_6750_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![RAM 48GB](https://img.shields.io/badge/RAM-48GB-0078D6?style=for-the-badge)
+![AMD Radeon RX 6750 XT](https://img.shields.io/badge/AMD-Radeon_RX_6750_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![AMD Ryzen 7 5800X](https://img.shields.io/badge/AMD-Ryzen_7_5800X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Pop!_OS](https://img.shields.io/badge/Pop_OS-0078D6?style=for-the-badge&logo=linux&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![RAM 48GB](https://img.shields.io/badge/RAM-48GB-0078D6?style=for-the-badge)
 
 ---
 
